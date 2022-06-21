@@ -902,5 +902,6 @@
   "web_conference": "Conferencia web",
   "requires_confirmation": "Requiere confirmación",
   "add_exchange2013": "Conectar con Exchange 2013 Server",
-  "add_exchange2016": "Conectar con Exchange 2016 Server"
+  "add_exchange2016": "Conectar con Exchange 2016 Server",
+  "attendee_name": "Nombre del asistente"
 }
